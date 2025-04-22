@@ -1,4 +1,4 @@
-# animasyon_deneme1
+# headsortails_game
 
 A new Flutter project.
 
